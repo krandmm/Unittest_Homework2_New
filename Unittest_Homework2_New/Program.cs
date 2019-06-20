@@ -37,7 +37,7 @@ namespace Unittest_Homework2_New
                     bool flag = false;
 
                     /// <summary>
-                    /// The length of first side
+                    /// The length of first side input
                     /// Check if an integer is entered (Only integers are allowed)
                     /// </summary>
                      
