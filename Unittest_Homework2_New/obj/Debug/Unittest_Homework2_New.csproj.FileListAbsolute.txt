@@ -1,0 +1,10 @@
+C:\Users\PSP\source\repos\Unittest_Homework2_New\Unittest_Homework2_New\bin\Debug\Unittest_Homework2_New.exe.config
+C:\Users\PSP\source\repos\Unittest_Homework2_New\Unittest_Homework2_New\bin\Debug\Unittest_Homework2_New.exe
+C:\Users\PSP\source\repos\Unittest_Homework2_New\Unittest_Homework2_New\bin\Debug\Unittest_Homework2_New.pdb
+C:\Users\PSP\source\repos\Unittest_Homework2_New\Unittest_Homework2_New\bin\Debug\nunit.framework.dll
+C:\Users\PSP\source\repos\Unittest_Homework2_New\Unittest_Homework2_New\bin\Debug\nunit.framework.xml
+C:\Users\PSP\source\repos\Unittest_Homework2_New\Unittest_Homework2_New\obj\Debug\Unittest_Homework2_New.csproj.CoreCompileInputs.cache
+C:\Users\PSP\source\repos\Unittest_Homework2_New\Unittest_Homework2_New\obj\Debug\Unittest_Homework2_New.csproj.CopyComplete
+C:\Users\PSP\source\repos\Unittest_Homework2_New\Unittest_Homework2_New\obj\Debug\Unittest_Homework2_New.exe
+C:\Users\PSP\source\repos\Unittest_Homework2_New\Unittest_Homework2_New\obj\Debug\Unittest_Homework2_New.pdb
+C:\Users\PSP\source\repos\Unittest_Homework2_New\Unittest_Homework2_New\obj\Debug\Unittest_Homework2_New.csprojAssemblyReference.cache
